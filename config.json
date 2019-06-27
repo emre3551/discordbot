@@ -1,0 +1,12 @@
+{ 
+  "debug" : false,
+  "token"  : "NTg1Nzg5MTQxNzk5Nzk2NzM2.XRRp0Q.bqdasRaXB8UPj_ZgMBV3e-dwRDs",
+  "apiSite" : 3,
+  "apiUrl" : "https://api.battlemetrics.com/servers/3684382",
+  "enableRcon" : "0",
+  "rconhost"   : "185.126.178.39",
+  "rconport"   : "8401",
+  "rconpass"   : "emre3551",
+  "prefix" : "!",
+  "roles"  :  ["Administrator", "admins"]
+}
